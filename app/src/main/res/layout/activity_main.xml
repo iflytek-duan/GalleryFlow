@@ -11,7 +11,6 @@
     <com.zihao.galleryflow.view.GalleryFlow
         android:id="@+id/gallery_flow"
         android:layout_width="match_parent"
-        android:background="@android:color/darker_gray"
         android:layout_height="180dp" />
 
 </LinearLayout>
